@@ -1,0 +1,28 @@
+instalar una carpeta con virtual env
+
+-py -m venv venv
+
+activar virtual env
+
+-.\venv\Scripts\activa
+
+iniciar un nuevo repocitorio en github
+
+-git init
+
+crear proyecto en django
+
+- django-admin startproject proyecto
+
+encender el proyecto
+
+-py manage.py runserver
+
+crear una app
+
+-py manage.py startapp app
+
+añadir todos los archivos
+
+-git add -A
+
